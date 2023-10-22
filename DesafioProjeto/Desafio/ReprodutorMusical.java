@@ -1,4 +1,4 @@
-package DesafioProjeto;
+package DesafioProjeto.Desafio;
 
 public class ReprodutorMusical {
     
